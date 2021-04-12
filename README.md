@@ -25,5 +25,7 @@
 #### It is good to be wise because it helps you to do your best, work hard, develop yourself and increase your experience
 
 
+### about me 
+##### I love learning new things, developing my skills and trying everything out This helps me improve my work and do what is best for it to be unique
 
 [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
