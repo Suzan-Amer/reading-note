@@ -31,6 +31,12 @@
 [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
+## Hello my name is Suzan
+### I love learning new things and getting to know them to develop my skills in everything. I love drawing and handicrafts
+### And I learned to build the application without programming and to work with it
+### The application industry is a very beautiful and a big world
+And I wanted to learn a new thing, which is the web development
+
 | READ   | LINK  |   
 |---------|--------|
 | read1  | [link](https://suzan-amer.github.io/reading-note/)  |   
