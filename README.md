@@ -29,3 +29,22 @@
 ##### I love learning new things, developing my skills and trying everything out This helps me improve my work and do what is best for it to be unique
 
 [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+| READ   | LINK  |   
+|---------|--------|
+| read1  | [link](https://suzan-amer.github.io/reading-note/)  |   
+| read2  | [link](https://suzan-amer.github.io/reading-note/)  |      
+| read3  | [link](https://suzan-amer.github.io/reading-note/)  |  
+| read4  | [link](https://suzan-amer.github.io/reading-note/)  |   
+| read5  | [link](https://suzan-amer.github.io/reading-note/)  |     
+| read6  | [link](https://suzan-amer.github.io/reading-note/)  | 
+| read7  | [link](https://suzan-amer.github.io/reading-note/)  |   
+| read8  | [link](https://suzan-amer.github.io/reading-note/)  |     
+| read9  | [link](https://suzan-amer.github.io/reading-note/)  | 
+| read10 | [link](https://suzan-amer.github.io/reading-note/)  |   
+| read11 | [link](https://suzan-amer.github.io/reading-note/)  |     
+| read12 | [link](https://suzan-amer.github.io/reading-note/)  | 
+| read13 | [link](https://suzan-amer.github.io/reading-note/)  |   
+| read14 | [link](https://suzan-amer.github.io/reading-note/)  |     
+| read15 | [link](https://suzan-amer.github.io/reading-note/)  | 
