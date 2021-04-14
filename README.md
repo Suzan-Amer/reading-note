@@ -8,7 +8,7 @@ And I wanted to learn a new thing, which is the web development
 
 | READ   | LINK  |   
 |---------|--------|
-| read1  | [link](https://suzan-amer.github.io/reading-note/read01)  |   
+| read1  | [link](https://suzan-amer.github.io/reading-note/read02)  |   
 | read2  | [link](https://suzan-amer.github.io/reading-note/)  |      
 | read3  | [link](https://suzan-amer.github.io/reading-note/)  |  
 | read4  | [link](https://suzan-amer.github.io/reading-note/)  |   
