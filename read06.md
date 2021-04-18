@@ -2,7 +2,7 @@
 ### What is JavaScript ?
 #### JavaScript allows you to make web pages more interactiv by accessing and modifying the content and marckup used in a web page while it is begin viewed in the browser
 
-![js](https://media.vlpt.us/images/soom/post/f3c5037c-207e-4620-a4ad-e3404946c861/6288755792019456.jpeg
+![js](https://media.vlpt.us/images/soom/post/f3c5037c-207e-4620-a4ad-e3404946c861/6288755792019456.jpeg)
 
 
 
