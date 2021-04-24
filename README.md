@@ -27,12 +27,12 @@ And I wanted to learn a new thing, which is the web development
 
 | READ   02| LINK  |   
 |---------|--------|
-| read1  | [link](https://suzan-amer.github.io/reading-note/read001 )  |   
-| read2  | [link]( )  |      
-| read3  | [link]( )  |  
-| read4  | [link]( )  |   
-| read5  | [link]( )  |     
-| read6  | [link](  ) | 
+| read1  | [link](https://suzan-amer.github.io/reading-note/class-01)  |   
+| read2  | [link](https://suzan-amer.github.io/reading-note/)  |      
+| read3  | [link](https://suzan-amer.github.io/reading-note/)  |  
+| read4  | [link](https://suzan-amer.github.io/reading-note/ )  |   
+| read5  | [link](https://suzan-amer.github.io/reading-note/ )  |     
+| read6  | [link]( https://suzan-amer.github.io/reading-note/) | 
 | read7  | [link](https://suzan-amer.github.io/reading-note/)  |   
 | read8  | [link](https://suzan-amer.github.io/reading-note/)  |     
 | read9  | [link](https://suzan-amer.github.io/reading-note/)  | 
