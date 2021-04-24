@@ -23,3 +23,22 @@ And I wanted to learn a new thing, which is the web development
 | read13 | [link](https://suzan-amer.github.io/reading-note/)  |   
 | read14 | [link](https://suzan-amer.github.io/reading-note/)  |     
 | read15 | [link](https://suzan-amer.github.io/reading-note/)  | 
+
+
+
+
+
+
+
+| READ   02| LINK  |   
+|---------|--------|
+| read1  | [link]( )  |   
+| read2  | [link]( )  |      
+| read3  | [link]( ))  |  
+| read4  | [link]( )  |   
+| read5  | [link]( )  |     
+| read6  | [link](  )  | 
+| read7  | [link](https://suzan-amer.github.io/reading-note/)  |   
+| read8  | [link](https://suzan-amer.github.io/reading-note/)  |     
+| read9  | [link](https://suzan-amer.github.io/reading-note/)  | 
+| read10 | [link](https://suzan-amer.github.io/reading-note/)  |   
