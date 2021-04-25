@@ -84,3 +84,10 @@
 
 # FOR LOOP VS WHILE LOOP
 ![LOOP](https://i.pinimg.com/564x/f9/cf/f5/f9cff59bf4508e9466c893db5338370f.jpg)
+
+
+# Some questions to refresh your mind :
+## Q1 :***what is mean html ?***
+## Q2 :*** How we CAN write CSS?? ***
+## Q3 :***What Is The Javascript ?***
+## Q4 :*** how we can write the IF ..ELES statment ?***
