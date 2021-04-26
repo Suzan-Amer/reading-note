@@ -88,6 +88,6 @@
 
 # Some questions to refresh your mind :
 ## Q1 :***what is mean html ?***
-## Q2 :*** How we CAN write CSS?? ***
+## Q2 :***How we CAN write CSS??***
 ## Q3 :***What Is The Javascript ?***
-## Q4 :*** how we can write the IF ..ELES statment ?***
+## Q4 :***how we can write the IF ..ELES statment ?***
